@@ -1,8 +1,8 @@
 % speech enhancement 14-11-2019
 
-clear;
 clc;
-close all;
+clear;
+close all; 
 % load clean speech
 clean_speech_path = 'C:\Users\Karen\Desktop\SpeechEnhancement\OriginalData\clean_speech.WAV';
 % desired snr ratio
